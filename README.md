@@ -1,2 +1,2 @@
-# scamazon
+# skamazon
 totally not a scam
