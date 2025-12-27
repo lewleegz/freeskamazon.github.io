@@ -1,0 +1,20 @@
+
+html {
+font-family: arial, sans-serif;
+}
+
+
+.official {
+                font-size: 3em;
+}
+
+.centralisation {
+          display: grid;
+          place-content: center;
+}
+
+.purchaseButton {
+	background: orange
+	;		
+}
+
