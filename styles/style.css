@@ -15,6 +15,11 @@ font-family: arial, sans-serif;
 
 .purchaseButton {
 	background: orange
-	;		
+	;
+}
+
+
+.padding {
+	padding: 2.5em;
 }
 
