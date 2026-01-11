@@ -23,3 +23,9 @@ font-family: arial, sans-serif;
 	padding: 2.5em;
 }
 
+.container {
+    display: grid;
+    grid-template-columns: 5em 100px 30%;
+    grid-template-rows: 200px auto;
+    gap: 10px;
+}
